@@ -22,6 +22,6 @@ public class HomeController {
                 "Keyboard",
                 "Mouse",
                 "Monitor"
-        );
+        )
     }
 }
