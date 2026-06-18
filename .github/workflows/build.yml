@@ -21,5 +21,4 @@ jobs:
 
       - name: Build Application
         working-directory: app/store
-         chmod +x mvnw
-        run: ./mvnw clean package
+        run: chmod +x mvnw && ./mvnw clean package
