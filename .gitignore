@@ -2,5 +2,4 @@ target/
 *.jar
 *.war
 *.ear
-.mvn/.mvn/
 .DS_Store
